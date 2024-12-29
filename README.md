@@ -1,0 +1,6 @@
+# example.com.1/支持轮训/银联/京东/提现t0t1/实名认证
+
+源码介绍<br>example.com.1支持多通道轮训全开源运营版多模板/免签约支付系统/API退款/实名认证/完善手动提现t0t1/带视频搭建教程<br>自带多款模板可随意切换，且全开源无加密无授权，对接有商户进件签约通道及Z支付免签约渠道，开关商户付费注册设置，支付接口配置，短信接口配置等等，都可以在后台一键配置。非常好用的一款易支付系统。AP文档及SDK文件也都一起打包，配备了视频搭建教程及图文搭建教程。<br>源码功能<br>和2020早期泛滥版本相比，新增和修改了近400个文件，进行了大量修复和完善。<br>新增掌易收聚合支付等共计16个新支付接口插件。<br>这个系统已经相当完善了，有11套模版。<br>喜欢的小伙本可以研究一下，<br>比旧版易支付，增加了以下好多的功能：<br>支付通道改成插件形式，更加方便自行对接其他上游通道，增加了京东支付、银联支付、小微支付、码支付等。<br>增加首页模版切换功能，自带11套模版，全网比较好看的模版基本都有了！<br>完善手动提现，支持t0和t1两种提现方式，<br>完善企业付款，支持支付宝、微信、QQ钱包批量转账结算，支持手动打款结算。<br>增加密码，登陆模式，增加后台模拟用户登陆，<br>增加API退款、手动补单、删除订单，<br>增加用户组设置，可以无限添加不同用户组，设置不同费率，<br>增加多通道轮训，可以自定义轮训方式和权重设置，（这个挺不错的，）<br>增加实名，认证（对接支付宝API），<br>增加网站公告配置、短信接口增加阿里云<br>快捷登陆、网站监控、首页logo都可以在后台设置了，方便，快捷<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/qBxtt" style="color: red;">https://mega-file.org/qBxtt</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
